@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="שרגא הפודל">
+<circle cx="250" cy="250" r="235" fill="#8dcef0"/><circle cx="250" cy="250" r="218" fill="none" stroke="#fff8eb" stroke-width="15"/>
+<text x="250" y="285" text-anchor="middle" font-size="250">🐩</text>
+<path d="M125 365h250l-20 64H145z" fill="#fffdf7" stroke="#5db5de" stroke-width="10"/><ellipse cx="250" cy="365" rx="125" ry="25" fill="#fffdf7" stroke="#5db5de" stroke-width="10"/>
+<text x="250" y="455" text-anchor="middle" font-family="Arial,sans-serif" font-size="52" font-weight="700" fill="#774020">שרגא</text>
+</svg>
